@@ -1,19 +1,16 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
-import geopandas as gpd
 
-# Read the Excel file - replace 'your_file.xlsx' with your actual filename
-df = pd.read_csv('Medical_Files/Merged/Transparency-2025-All-Plans-Clean.csv')
 
-# Print column names to debug
-print("Available columns:", df.columns.tolist())
+# Read the csv file
+df = pd.read_csv('Merged/Transparency-2025-All-Plans-Clean.csv')
 
-# Calculate denial rate for each plan (using correct column name)
+
+
+# Calculate denial rate for each plan
 df['Denial_Rate'] = (df['Claims_Denied'] / 
                      df['Claims_Received'] * 100)
-
 
 # Group by state and calculate mean denial rate
 state_denial_rates = df.groupby('State')['Denial_Rate'].agg([
@@ -24,52 +21,50 @@ state_denial_rates = df.groupby('State')['Denial_Rate'].agg([
 # Sort by mean denial rate
 state_denial_rates = state_denial_rates.sort_values('mean', ascending=True)
 
-# Load US states geometry
-states_map = gpd.read_file('https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json')
-
-# Merge the geometry with our denial rates data
-# Convert state codes to uppercase to match the geometry data
-states_map = states_map.merge(state_denial_rates, 
-                            how='left',
-                            left_on='id',
-                            right_on='State')
-
 # Create the visualization
-fig, ax = plt.subplots(1, 1, figsize=(15, 10))
-
-# Create choropleth map
-states_map.plot(column='mean',
-                ax=ax,
-                legend=True,
-                legend_kwds={'label': 'Denial Rate (%)',
-                            'orientation': 'horizontal'},
-                missing_kwds={'color': 'lightgrey'},
-                cmap='YlOrRd')
-
-# Add state labels with denial rates
-for idx, row in states_map.iterrows():
-    # Get the centroid of each state
-    centroid = row.geometry.centroid
-    # Add text with state name and denial rate
-    if not np.isnan(row['mean']):  # Only add label if we have data
-        ax.text(centroid.x, centroid.y,
-                f"{row['id']}\n{row['mean']:.1f}%",
-                ha='center',
-                va='center',
-                fontsize=8)
+plt.figure(figsize=(15, 8))
+sns.barplot(data=state_denial_rates, 
+            x='State', 
+            y='mean',
+            color='skyblue')
 
 # Customize the plot
-plt.title('Insurance Claim Denial Rates by State', pad=20)
-ax.axis('off')  # Remove axes
+plt.title('Average Insurance Claim Denial Rates by State', pad=20)
+plt.xlabel('State')
+plt.ylabel('Average Denial Rate (%)')
+plt.xticks(rotation=45, ha='right')
 
-# Adjust layout
+# Add grid for better readability
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+
+# Adjust layout to prevent label cutoff
 plt.tight_layout()
+
+# Optional: Add data labels on top of each bar
+for i, row in state_denial_rates.iterrows():
+    plt.text(i, 
+             row['mean'] + 0.5,  # Single y-position specification
+             f"{row['mean']:.1f}%\n(n={int(row['count'])})", 
+             ha='center', 
+             va='bottom',
+             fontsize=8,
+             bbox=dict(facecolor='white', alpha=0.7, edgecolor='none', pad=1))
 
 plt.show()
 
-# Print summary statistics
+
+# Print summary statistics in a formatted table
 print("\nSummary Statistics:")
-print(f"States with highest denial rates:")
-print(state_denial_rates.nlargest(5, 'mean')[['State', 'mean', 'count']])
+print("\nStates with highest denial rates:")
+print("-" * 50)
+print(f"{'State':<15}{'Denial Rate':>15}{'Plans Count':>15}")
+print("-" * 50)
+for _, row in state_denial_rates.nlargest(5, 'mean').iterrows():
+    print(f"{row['State']:<15}{row['mean']:>14.1f}%{row['count']:>15}")
+
 print("\nStates with lowest denial rates:")
-print(state_denial_rates.nsmallest(5, 'mean')[['State', 'mean', 'count']])
+print("-" * 50)
+print(f"{'State':<15}{'Denial Rate':>15}{'Plans Count':>15}")
+print("-" * 50)
+for _, row in state_denial_rates.nsmallest(5, 'mean').iterrows():
+    print(f"{row['State']:<15}{row['mean']:>14.1f}%{row['count']:>15}")
