@@ -1,0 +1,73 @@
+Market,State,Issuer_Name,Plan_ID,Plan_Type,Metal_Level,Claims_Received,Claims_Denied,Appeals_Overturned_Rate,Denial_Rate
+SHOP,AL,Blue Cross and Blue Shield of Alabama,46944AL0340001,PPO,Gold,23,23,46.6%,100.0%
+SHOP,AL,Blue Cross and Blue Shield of Alabama,46944AL0670001,PPO,Gold,514074,116747,46.6%,22.7%
+SHOP,AL,Blue Cross and Blue Shield of Alabama,46944AL0380001,PPO,Silver,48,48,46.6%,100.0%
+SHOP,AL,Blue Cross and Blue Shield of Alabama,46944AL0680001,PPO,Silver,38039,7763,46.6%,20.4%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350001,PPO,Bronze Expanded,350,69,43.4%,19.7%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350003,PPO,Gold,74,16,43.4%,21.6%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350005,PPO,Gold,1389,275,43.4%,19.8%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350006,PPO,Gold,90,21,43.4%,23.3%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350007,PPO,Gold,2287,347,43.4%,15.2%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350008,PPO,Gold,2010,335,43.4%,16.7%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350024,PPO,Gold,210,17,43.4%,8.1%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350012,PPO,Silver,1052,225,43.4%,21.4%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350013,PPO,Silver,1577,344,43.4%,21.8%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350014,PPO,Silver,1130,211,43.4%,18.7%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350015,PPO,Silver,398,32,43.4%,8.0%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350016,PPO,Silver,2639,354,43.4%,13.4%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350019,PPO,Silver,935,135,43.4%,14.4%
+SHOP,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0350023,PPO,Silver,688,79,43.4%,11.5%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160008,HMO,Bronze Expanded,5900,818,36.5%,13.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160030,HMO,Bronze Expanded,956,126,36.5%,13.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160037,HMO,Bronze Expanded,2079,280,36.5%,13.5%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160038,HMO,Bronze Expanded,96,20,36.5%,20.8%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160011,HMO,Gold,3081,552,36.5%,17.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160015,HMO,Gold,8282,1308,36.5%,15.8%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160016,HMO,Gold,20847,3606,36.5%,17.3%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160032,HMO,Gold,7773,1500,36.5%,19.3%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160033,HMO,Gold,31098,4970,36.5%,16.0%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160039,HMO,Gold,1233,215,36.5%,17.4%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160041,HMO,Gold,5494,1072,36.5%,19.5%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160042,HMO,Gold,612,87,36.5%,14.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160043,HMO,Gold,9128,1840,36.5%,20.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160044,HMO,Gold,15959,2409,36.5%,15.1%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160065,HMO,Gold,5202,862,36.5%,16.6%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160069,HMO,Gold,6481,1094,36.5%,16.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160010,HMO,Silver,6313,1047,36.5%,16.6%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160013,HMO,Silver,12368,1772,36.5%,14.3%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160017,HMO,Silver,16065,2481,36.5%,15.4%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160018,HMO,Silver,52647,8532,36.5%,16.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160019,HMO,Silver,4416,564,36.5%,12.8%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160027,HMO,Silver,20160,3557,36.5%,17.6%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160048,HMO,Silver,1290,260,36.5%,20.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160049,HMO,Silver,3063,420,36.5%,13.7%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160050,HMO,Silver,3929,743,36.5%,18.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160051,HMO,Silver,5066,811,36.5%,16.0%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160052,HMO,Silver,29848,5340,36.5%,17.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160055,HMO,Silver,8348,1521,36.5%,18.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160066,HMO,Silver,21480,3699,36.5%,17.2%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160068,HMO,Silver,5321,1060,36.5%,19.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160073,HMO,Silver,3707,480,36.5%,12.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160074,HMO,Silver,1431,227,36.5%,15.9%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160075,HMO,Silver,1807,247,36.5%,13.7%
+SHOP,NH,Matthew Thornton Hlth Plan(Anthem BCBS),96751NH0160076,HMO,Silver,500,85,36.5%,17.0%
+SHOP,OH,AultCare Insurance Company,28162OH0090031,PPO,Bronze Expanded,189,46,43.2%,24.3%
+SHOP,OH,AultCare Insurance Company,28162OH0090062,PPO,Bronze Expanded,3654,771,43.2%,21.1%
+SHOP,OH,AultCare Insurance Company,28162OH0090041,PPO,Gold,208,77,43.2%,37.0%
+SHOP,OH,AultCare Insurance Company,28162OH0090042,PPO,Gold,1193,288,43.2%,24.1%
+SHOP,OH,AultCare Insurance Company,28162OH0090043,PPO,Gold,442,75,43.2%,17.0%
+SHOP,OH,AultCare Insurance Company,28162OH0090057,PPO,Gold,254,50,43.2%,19.7%
+SHOP,OH,AultCare Insurance Company,28162OH0090058,PPO,Gold,625,148,43.2%,23.7%
+SHOP,OH,AultCare Insurance Company,28162OH0090046,PPO,Platinum,232,33,43.2%,14.2%
+SHOP,OH,AultCare Insurance Company,28162OH0090047,PPO,Platinum,1472,181,43.2%,12.3%
+SHOP,OH,AultCare Insurance Company,28162OH0090048,PPO,Platinum,723,147,43.2%,20.3%
+SHOP,OH,AultCare Insurance Company,28162OH0090050,PPO,Platinum,1223,250,43.2%,20.4%
+SHOP,OH,AultCare Insurance Company,28162OH0090035,PPO,Silver,765,175,43.2%,22.9%
+SHOP,OH,AultCare Insurance Company,28162OH0090036,PPO,Silver,570,97,43.2%,17.0%
+SHOP,OH,AultCare Insurance Company,28162OH0090038,PPO,Silver,561,148,43.2%,26.4%
+SHOP,OH,AultCare Insurance Company,28162OH0090059,PPO,Silver,624,103,43.2%,16.5%
+SHOP,OH,AultCare Insurance Company,28162OH0090060,PPO,Silver,1860,393,43.2%,21.1%
+SHOP,WI,"Security Health Plan of Wisconsin, Inc.",38166WI0150001,POS,Platinum,89,35,65.7%,39.3%
+SHOP,WI,"Security Health Plan of Wisconsin, Inc.",38166WI0140011,HMO,Silver,199,22,65.7%,11.1%
+SHOP,WI,"Security Health Plan of Wisconsin, Inc.",38166WI0140036,HMO,Silver,56,17,65.7%,30.4%
+SHOP,WI,"Security Health Plan of Wisconsin, Inc.",38166WI0160034,EPO,Silver,75,20,65.7%,26.7%

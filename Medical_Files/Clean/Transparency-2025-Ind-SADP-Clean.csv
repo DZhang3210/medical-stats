@@ -1,0 +1,366 @@
+Market,State,Issuer_Name,Plan_ID,Plan_Type,Metal_Level,Claims_Received,Claims_Denied,Appeals_Overturned_Rate,Denial_Rate
+Individual,AK,BEST Life and Health Insurance Company,74819AK0020007,PPO,High,20,12,0.0%,60.0%
+Individual,AK,Oregon Dental Service,21989AK0050001,PPO,High,2328,408,0.0%,17.5%
+Individual,AK,Oregon Dental Service,21989AK0050002,PPO,High,1750,354,0.0%,20.2%
+Individual,AK,Oregon Dental Service,21989AK0030001,Indemnity,Low,3837,786,0.0%,20.5%
+Individual,AL,Blue Cross and Blue Shield of Alabama,46944AL0500001,PPO,Low,97138,18539,46.6%,19.1%
+Individual,AL,Delta Dental Insurance Company,82285AL0010004,PPO,High,6789,2058,0.0%,30.3%
+Individual,AL,Delta Dental Insurance Company,82285AL0010006,PPO,Low,9213,2756,0.0%,29.9%
+Individual,AL,"Dental Care Plus, Inc.",18239AL0010003,PPO,High,1630,710,0.0%,43.6%
+Individual,AL,"Dental Care Plus, Inc.",18239AL0010004,PPO,Low,1301,504,0.0%,38.7%
+Individual,AL,"Educators Health Plans Life, Accident, and Health, Inc",46363AL0010001,PPO,High,365,144,0.0%,39.5%
+Individual,AL,"Educators Health Plans Life, Accident, and Health, Inc",46363AL0010002,PPO,Low,368,146,0.0%,39.7%
+Individual,AL,"Educators Health Plans Life, Accident, and Health, Inc",46363AL0010003,PPO,Low,918,449,0.0%,48.9%
+Individual,AL,"Educators Health Plans Life, Accident, and Health, Inc",46363AL0010004,PPO,Low,1361,638,0.0%,46.9%
+Individual,AL,Humana Insurance Company,44580AL0380003,PPO,High,11860,2482,0.0%,20.9%
+Individual,AL,Humana Insurance Company,44580AL0380001,PPO,Low,5498,1295,0.0%,23.6%
+Individual,AL,Humana Insurance Company,44580AL0380004,PPO,Low,6484,2282,0.0%,35.2%
+Individual,AL,Renaissance Life & Health Insurance Company of America,28725AL0110001,PPO,High,2061,657,0.0%,31.9%
+Individual,AL,Renaissance Life & Health Insurance Company of America,28725AL0110002,PPO,Low,3977,1161,0.0%,29.2%
+Individual,AL,Renaissance Life & Health Insurance Company of America,28725AL0150001,PPO,Low,3424,730,0.0%,21.3%
+Individual,AL,TRUASSURE INSURANCE COMPANY,60075AL0020001,PPO,High,538,100,0.0%,18.6%
+Individual,AR,BEST Life and Health Insurance Company,26904AR0020003,PPO,High,45,27,0.0%,60.0%
+Individual,AR,BEST Life and Health Insurance Company,26904AR0020006,PPO,High,152,120,0.0%,78.9%
+Individual,AR,"Delta Dental Plan of Arkansas, Inc.",28348AR0090002,PPO,High,594,88,0.0%,14.8%
+Individual,AR,"Delta Dental Plan of Arkansas, Inc.",28348AR0100002,PPO,High,3500,587,0.0%,16.8%
+Individual,AR,"Delta Dental Plan of Arkansas, Inc.",28348AR0090001,PPO,Low,222,27,0.0%,12.2%
+Individual,AR,"Delta Dental Plan of Arkansas, Inc.",28348AR0100001,PPO,Low,2156,347,0.0%,16.1%
+Individual,AR,"Delta Dental Plan of Arkansas, Inc.",28348AR0100003,PPO,Low,6214,1248,0.0%,20.1%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230001,PPO,High,100,23,31.3%,23.0%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230003,PPO,High,1978,315,31.3%,15.9%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230004,PPO,High,3096,492,31.3%,15.9%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230005,PPO,High,838,134,31.3%,16.0%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230006,PPO,High,2418,457,31.3%,18.9%
+Individual,AR,USAble Mutual Insurance Company,75293AR1230002,PPO,Low,7327,1491,31.3%,20.3%
+Individual,AZ,"Arizona Dental Insurance Service, Inc.",30045AZ0010032,PPO,High,12441,3834,0.0%,30.8%
+Individual,AZ,"Arizona Dental Insurance Service, Inc.",30045AZ0010021,PPO,Low,26282,7760,0.0%,29.5%
+Individual,AZ,Cigna Health and Life Insurance Company,86830AZ0050001,PPO,Low,87,16,48.4%,18.4%
+Individual,AZ,Cigna Health and Life Insurance Company,86830AZ0050002,PPO,Low,6917,2107,48.4%,30.5%
+Individual,AZ,"DentaQuest National Insurance Company, Inc.",12303AZ0010001,PPO,High,31,17,0.0%,54.8%
+Individual,AZ,"DentaQuest National Insurance Company, Inc.",12303AZ0010003,PPO,High,600,274,0.0%,45.7%
+Individual,AZ,"DentaQuest National Insurance Company, Inc.",12303AZ0010004,PPO,Low,701,303,0.0%,43.2%
+Individual,AZ,"Educators Health Plans Life, Accident, and Health, Inc",53613AZ0010003,PPO,Low,1957,552,0.0%,28.2%
+Individual,AZ,"Educators Health Plans Life, Accident, and Health, Inc",53613AZ0010004,PPO,Low,1332,398,0.0%,29.9%
+Individual,AZ,"Educators Health Plans Life, Accident, and Health, Inc",53613AZ0020002,PPO,Low,4374,1517,0.0%,34.7%
+Individual,AZ,Humana Insurance Company,66105AZ0620003,PPO,High,9994,2652,0.0%,26.5%
+Individual,AZ,Humana Insurance Company,66105AZ0620002,PPO,Low,5608,1674,0.0%,29.9%
+Individual,AZ,"Solstice Healthplans of Arizona, Inc.",34095AZ0010001,EPO,High,2716,1596,0.0%,58.8%
+Individual,AZ,TRUASSURE INSURANCE COMPANY,24106AZ0020001,PPO,High,147,38,0.0%,25.9%
+Individual,AZ,TRUASSURE INSURANCE COMPANY,24106AZ0010001,PPO,Low,55,24,0.0%,43.6%
+Individual,DE,"Delta Dental of Delaware, Inc.",26018DE0010004,PPO,High,3456,740,0.0%,21.4%
+Individual,DE,"Delta Dental of Delaware, Inc.",26018DE0010006,PPO,Low,3449,755,0.0%,21.9%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0010006,HMO,High,286,56,0.0%,19.6%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0020006,PPO,High,735,179,0.0%,24.4%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0010004,HMO,Low,447,29,0.0%,6.5%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0020004,PPO,Low,166,52,0.0%,31.3%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0020007,PPO,Low,340,50,0.0%,14.7%
+Individual,DE,"Dominion Dental Services, Inc.",67775DE0020008,PPO,Low,500,135,0.0%,27.0%
+Individual,FL,BEST Life and Health Insurance Company,17121FL0020003,PPO,High,121,51,0.0%,42.1%
+Individual,FL,Cigna Health and Life Insurance Company,48121FL0030001,PPO,Low,149,20,27.0%,13.4%
+Individual,FL,Cigna Health and Life Insurance Company,48121FL0030002,PPO,Low,26437,9026,27.0%,34.1%
+Individual,FL,Delta Dental Insurance Company,97725FL0010004,PPO,High,36520,13659,0.0%,37.4%
+Individual,FL,Delta Dental Insurance Company,97725FL0030004,HMO,High,120033,40365,0.0%,33.6%
+Individual,FL,Delta Dental Insurance Company,97725FL0010006,PPO,Low,15957,4977,0.0%,31.2%
+Individual,FL,Delta Dental Insurance Company,97725FL0010007,PPO,Low,35652,13252,0.0%,37.2%
+Individual,FL,Delta Dental Insurance Company,97725FL0030006,HMO,Low,14785,5991,0.0%,40.5%
+Individual,FL,"DentaQuest of Florida, Inc.",59667FL0010001,EPO,High,165,118,0.0%,71.5%
+Individual,FL,"DentaQuest of Florida, Inc.",59667FL0010003,EPO,High,1579,919,0.0%,58.2%
+Individual,FL,"DentaQuest of Florida, Inc.",59667FL0010004,EPO,Low,6475,4129,0.0%,63.8%
+Individual,FL,"Educators Health Plans Life, Accident, and Health,",98869FL0010003,PPO,Low,6208,2179,0.0%,35.1%
+Individual,FL,"Educators Health Plans Life, Accident, and Health,",98869FL0010004,PPO,Low,3968,1476,0.0%,37.2%
+Individual,FL,"Educators Health Plans Life, Accident, and Health,",98869FL0020001,PPO,Low,5297,1860,0.0%,35.1%
+Individual,FL,Florida Combined Life Insurance Company,30115FL0020001,PPO,High,1088,89,0.0%,8.2%
+Individual,FL,Florida Combined Life Insurance Company,30115FL0050001,PPO,High,16831,5295,0.0%,31.5%
+Individual,FL,Florida Combined Life Insurance Company,30115FL0010001,PPO,Low,194,29,0.0%,14.9%
+Individual,FL,Florida Combined Life Insurance Company,30115FL0040001,PPO,Low,36768,13602,0.0%,37.0%
+Individual,FL,Humana Insurance Company,15980FL0160004,PPO,High,24405,7278,0.0%,29.8%
+Individual,FL,Humana Insurance Company,15980FL0160003,PPO,Low,15240,4397,0.0%,28.9%
+Individual,FL,Humana Insurance Company,15980FL0160005,PPO,Low,9399,4123,0.0%,43.9%
+Individual,FL,Renaissance Life & Health Insurance Company of America,48129FL0130003,PPO,High,4217,1512,0.0%,35.9%
+Individual,FL,Renaissance Life & Health Insurance Company of America,48129FL0130004,PPO,Low,4298,1574,0.0%,36.6%
+Individual,FL,Renaissance Life & Health Insurance Company of America,48129FL0180001,PPO,Low,3880,1068,0.0%,27.5%
+Individual,FL,"Solstice Benefits, Inc.",43274FL0010002,PPO,Low,839,297,0.0%,35.4%
+Individual,FL,"Solstice Benefits, Inc.",43274FL0030002,EPO,Low,20487,7719,0.0%,37.7%
+Individual,HI,Hawaii Dental Service,46082HI0020003,PPO,Low,4827,454,57.5%,9.4%
+Individual,HI,Hawaii Dental Service,46082HI0020004,PPO,Low,4428,290,57.5%,6.5%
+Individual,HI,Hawaii Medical Service Association,18350HI0920001,PPO,High,10191,3433,46.3%,33.7%
+Individual,HI,Hawaii Medical Service Association,18350HI0920005,PPO,High,256,38,46.3%,14.8%
+Individual,HI,Hawaii Medical Service Association,18350HI0920002,PPO,Low,6842,2321,46.3%,33.9%
+Individual,HI,Hawaii Medical Service Association,18350HI0920007,PPO,Low,7051,2628,46.3%,37.3%
+Individual,HI,Hawaii Medical Service Association,18350HI0930001,HMO,Low,4915,1891,46.3%,38.5%
+Individual,IA,BEST Life and Health Insurance Company,71051IA0020006,PPO,High,69,19,0.0%,27.5%
+Individual,IA,Delta Dental of Iowa,63366IA0020001,PPO,High,10844,1932,0.0%,17.8%
+Individual,IA,Delta Dental of Iowa,63366IA0020002,PPO,High,12658,2540,0.0%,20.1%
+Individual,IA,Delta Dental of Iowa,63366IA0020006,PPO,High,3191,606,0.0%,19.0%
+Individual,IA,Dentegra Insurance Company,61284IA0010012,PPO,High,1012,546,0.0%,54.0%
+Individual,IA,Dentegra Insurance Company,61284IA0010011,PPO,Low,197,56,0.0%,28.4%
+Individual,IL,Blue Cross Blue Shield of Illinois,36096IL0830001,PPO,High,66867,12065,31.1%,18.0%
+Individual,IL,Blue Cross Blue Shield of Illinois,36096IL0830003,PPO,High,778,46,31.1%,5.9%
+Individual,IL,Blue Cross Blue Shield of Illinois,36096IL0830002,PPO,Low,31891,5244,31.1%,16.4%
+Individual,IL,Blue Cross Blue Shield of Illinois,36096IL0830004,PPO,Low,414,51,31.1%,12.3%
+Individual,IL,Blue Cross Blue Shield of Illinois,36096IL0830005,PPO,Low,9867,2707,31.1%,27.4%
+Individual,IL,Delta Dental of Illinois,60600IL0010001,EPO,High,38,12,0.0%,31.6%
+Individual,IL,Delta Dental of Illinois,60600IL0010003,EPO,High,613,144,0.0%,23.5%
+Individual,IL,Delta Dental of Illinois,60600IL0010004,EPO,Low,8447,1763,0.0%,20.9%
+Individual,IL,Delta Dental of Illinois,60600IL0010005,PPO,Low,13917,3160,0.0%,22.7%
+Individual,IL,"DentaQuest National Insurance Company, Inc.",45634IL0010003,PPO,High,221,63,0.0%,28.5%
+Individual,IL,"DentaQuest National Insurance Company, Inc.",45634IL0010004,PPO,Low,208,52,0.0%,25.0%
+Individual,IL,"DentaQuest National Insurance Company, Inc.",45634IL0010005,PPO,Low,184,72,0.0%,39.1%
+Individual,IL,Dentegra Insurance Company,18715IL0010012,PPO,High,620,325,0.0%,52.4%
+Individual,IL,Dentegra Insurance Company,18715IL0010011,PPO,Low,344,138,0.0%,40.1%
+Individual,IL,"Solstice of Illinois, Inc.",43241IL0010001,EPO,Low,1486,124,0.0%,8.3%
+Individual,IN,Anthem Ins Companies Inc(Anthem BCBS),17575IN0860004,PPO,High,2529,221,42.6%,8.7%
+Individual,IN,Anthem Ins Companies Inc(Anthem BCBS),17575IN0860003,PPO,Low,4362,292,42.6%,6.7%
+Individual,IN,Anthem Ins Companies Inc(Anthem BCBS),17575IN0860005,PPO,Low,2377,173,42.6%,7.3%
+Individual,IN,Anthem Ins Companies Inc(Anthem BCBS),17575IN0860006,PPO,Low,1715,371,42.6%,21.6%
+Individual,IN,"Delta Dental Plan of Indiana, Inc.",28856IN0220001,PPO,High,5652,1449,0.0%,25.6%
+Individual,IN,"Delta Dental Plan of Indiana, Inc.",28856IN0220002,PPO,Low,14344,3440,0.0%,24.0%
+Individual,IN,"Delta Dental Plan of Indiana, Inc.",28856IN0230002,PPO,Low,47,11,0.0%,23.4%
+Individual,IN,"DentaQuest USA Insurance Company, Inc.",43433IN0010001,EPO,High,65,11,0.0%,16.9%
+Individual,IN,"DentaQuest USA Insurance Company, Inc.",43433IN0010003,EPO,High,300,82,0.0%,27.3%
+Individual,IN,"DentaQuest USA Insurance Company, Inc.",43433IN0010004,EPO,Low,933,300,0.0%,32.2%
+Individual,IN,"Health Resources, Inc.",33086IN0060001,HMO,Low,211,62,0.0%,29.4%
+Individual,IN,"Health Resources, Inc.",33086IN0060002,HMO,Low,272,46,0.0%,16.9%
+Individual,IN,"Health Resources, Inc.",33086IN0060003,HMO,Low,564,97,0.0%,17.2%
+Individual,IN,TRUASSURE INSURANCE COMPANY,87417IN0020001,PPO,High,138,44,0.0%,31.9%
+Individual,IN,TRUASSURE INSURANCE COMPANY,87417IN0010001,PPO,Low,380,47,0.0%,12.4%
+Individual,KS,BEST Life and Health Insurance Company,63790KS0020003,PPO,High,64,21,0.0%,32.8%
+Individual,KS,BEST Life and Health Insurance Company,63790KS0020006,PPO,Low,62,22,0.0%,35.5%
+Individual,KS,Dentegra Insurance Company,11339KS0010008,PPO,High,605,228,0.0%,37.7%
+Individual,KS,Dentegra Insurance Company,11339KS0010007,PPO,Low,1456,707,0.0%,48.6%
+Individual,KS,Renaissance Life & Health Insurance Company of America,95038KS0040003,PPO,Low,5187,1581,0.0%,30.5%
+Individual,KS,Renaissance Life & Health Insurance Company of America,95038KS0070001,PPO,Low,2995,659,0.0%,22.0%
+Individual,KS,TRUASSURE INSURANCE COMPANY,25268KS0020001,PPO,High,246,49,0.0%,19.9%
+Individual,KS,TRUASSURE INSURANCE COMPANY,25268KS0010001,PPO,Low,520,150,0.0%,28.8%
+Individual,LA,Delta Dental Insurance Company,18802LA0010004,PPO,High,1356,366,0.0%,27.0%
+Individual,LA,Delta Dental Insurance Company,18802LA0010006,PPO,Low,1789,562,0.0%,31.4%
+Individual,LA,"Humana Health Benefit Plan of Louisiana, Inc.",44965LA0590001,PPO,Low,3251,799,0.0%,24.6%
+Individual,LA,Louisiana Health Service & Indemnity Company,97176LA0390001,PPO,High,2508,578,35.2%,23.0%
+Individual,LA,Louisiana Health Service & Indemnity Company,97176LA0390002,PPO,High,5372,1179,35.2%,21.9%
+Individual,LA,Louisiana Health Service & Indemnity Company,97176LA0390003,PPO,High,9312,1986,35.2%,21.3%
+Individual,LA,Renaissance Life & Health Insurance Company of America,28419LA0040001,PPO,High,479,116,0.0%,24.2%
+Individual,LA,Renaissance Life & Health Insurance Company of America,28419LA0040002,PPO,Low,176,51,0.0%,29.0%
+Individual,MI,BEST Life and Health Insurance Company,35700MI0020003,PPO,High,46,23,0.0%,50.0%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0720002,PPO,High,41315,202,39.4%,0.5%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0720003,PPO,High,30245,150,39.4%,0.5%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0710001,PPO,Low,17984,45,39.4%,0.3%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0720001,PPO,Low,43743,185,39.4%,0.4%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0730001,EPO,Low,46948,110,39.4%,0.2%
+Individual,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,15560MI0740001,PPO,Low,7559,63,39.4%,0.8%
+Individual,MI,"Delta Dental Plan of Michigan, Inc.",34930MI0150001,PPO,High,28088,5668,0.0%,20.2%
+Individual,MI,"Delta Dental Plan of Michigan, Inc.",34930MI0150002,PPO,Low,70755,11303,0.0%,16.0%
+Individual,MI,"Delta Dental Plan of Michigan, Inc.",34930MI0170002,PPO,Low,342,51,0.0%,14.9%
+Individual,MI,"Dental Care Plus, Inc.",23426MI0010003,PPO,High,2001,757,0.0%,37.8%
+Individual,MI,"Dental Care Plus, Inc.",23426MI0010002,PPO,Low,52,13,0.0%,25.0%
+Individual,MI,"Dental Care Plus, Inc.",23426MI0010004,PPO,Low,1161,414,0.0%,35.7%
+Individual,MI,"Dental Care Plus, Inc.",23426MI0010005,PPO,Low,1536,479,0.0%,31.2%
+Individual,MI,"Educators Health Plans Life, Accident, and Health, Inc",88507MI0010002,PPO,Low,2979,79,0.0%,2.7%
+Individual,MI,"Educators Health Plans Life, Accident, and Health, Inc",88507MI0010003,PPO,Low,710,12,0.0%,1.7%
+Individual,MI,"Educators Health Plans Life, Accident, and Health, Inc",88507MI0010004,PPO,Low,2490,86,0.0%,3.5%
+Individual,MI,Humana Insurance Company,62294MI0420001,PPO,Low,5293,988,0.0%,18.7%
+Individual,MI,Paramount Insurance Company,95233MI0210001,EPO,Low,381,163,0.0%,42.8%
+Individual,MI,Paramount Insurance Company,95233MI0210002,EPO,Low,308,119,0.0%,38.6%
+Individual,MI,Paramount Insurance Company,95233MI0210003,EPO,Low,781,273,0.0%,35.0%
+Individual,MO,BEST Life and Health Insurance Company,29416MO0020003,PPO,High,24,17,0.0%,70.8%
+Individual,MO,"DentaQuest National Insurance Company, Inc.",58883MO0010003,PPO,High,237,104,0.0%,43.9%
+Individual,MO,"DentaQuest National Insurance Company, Inc.",58883MO0010004,PPO,Low,290,92,0.0%,31.7%
+Individual,MO,"Educators Health Plans Life, Accident, and Health, Inc",40519MO0010001,PPO,High,455,174,0.0%,38.2%
+Individual,MO,"Educators Health Plans Life, Accident, and Health, Inc",40519MO0010002,PPO,Low,549,173,0.0%,31.5%
+Individual,MO,"Educators Health Plans Life, Accident, and Health, Inc",40519MO0010003,PPO,Low,691,223,0.0%,32.3%
+Individual,MO,"Educators Health Plans Life, Accident, and Health, Inc",40519MO0010004,PPO,Low,914,294,0.0%,32.2%
+Individual,MO,Healthy Alliance Life Co(Anthem BCBS),32753MO0860004,PPO,High,2608,224,40.0%,8.6%
+Individual,MO,Healthy Alliance Life Co(Anthem BCBS),32753MO0860003,PPO,Low,2955,281,40.0%,9.5%
+Individual,MO,Healthy Alliance Life Co(Anthem BCBS),32753MO0860005,PPO,Low,1756,144,40.0%,8.2%
+Individual,MO,Healthy Alliance Life Co(Anthem BCBS),32753MO0860006,PPO,Low,1711,247,40.0%,14.4%
+Individual,MO,Humana Insurance Company,30613MO0560001,PPO,Low,6160,1354,0.0%,22.0%
+Individual,MO,Humana Insurance Company,30613MO0560002,PPO,Low,2859,931,0.0%,32.6%
+Individual,MO,Renaissance Life & Health Insurance Company of America,35853MO0040003,PPO,High,2803,900,0.0%,32.1%
+Individual,MO,Renaissance Life & Health Insurance Company of America,35853MO0040004,PPO,Low,3247,873,0.0%,26.9%
+Individual,MO,Renaissance Life & Health Insurance Company of America,35853MO0070001,PPO,Low,790,154,0.0%,19.5%
+Individual,MO,TRUASSURE INSURANCE COMPANY,82905MO0020001,PPO,High,1023,371,0.0%,36.3%
+Individual,MO,TRUASSURE INSURANCE COMPANY,82905MO0010001,PPO,Low,122,24,0.0%,19.7%
+Individual,MS,Delta Dental Insurance Company,49374MS0010004,PPO,High,1658,478,0.0%,28.8%
+Individual,MS,Delta Dental Insurance Company,49374MS0010006,PPO,Low,3564,811,0.0%,22.8%
+Individual,MS,Humana Insurance Company,48963MS0510002,PPO,Low,4387,1014,0.0%,23.1%
+Individual,MS,Renaissance Life & Health Insurance Company of America,84254MS0050003,PPO,Low,660,217,0.0%,32.9%
+Individual,MS,Renaissance Life & Health Insurance Company of America,84254MS0090001,PPO,Low,504,120,0.0%,23.8%
+Individual,MT,BEST Life and Health Insurance Company,93895MT0020006,Indemnity,Low,22,14,0.0%,63.6%
+Individual,MT,Blue Cross and Blue Shield of Montana,30751MT0580001,PPO,High,5705,746,26.3%,13.1%
+Individual,MT,Blue Cross and Blue Shield of Montana,30751MT0580003,PPO,High,144,11,26.3%,7.6%
+Individual,MT,Blue Cross and Blue Shield of Montana,30751MT0580002,PPO,Low,5457,698,26.3%,12.8%
+Individual,MT,Blue Cross and Blue Shield of Montana,30751MT0580004,PPO,Low,57,13,26.3%,22.8%
+Individual,MT,Blue Cross and Blue Shield of Montana,30751MT0580005,PPO,Low,2840,640,26.3%,22.5%
+Individual,MT,Delta Dental Insurance Company,71788MT0010004,PPO,High,1161,274,0.0%,23.6%
+Individual,MT,Delta Dental Insurance Company,71788MT0010009,PPO,Low,6895,1658,0.0%,24.0%
+Individual,NC,BEST Life and Health Insurance Company,94482NC0020003,PPO,High,51,25,0.0%,49.0%
+Individual,NC,BEST Life and Health Insurance Company,94482NC0020006,PPO,Low,77,35,0.0%,45.5%
+Individual,NC,Delta Dental of North Carolina,56891NC0120001,PPO,High,37505,8323,0.0%,22.2%
+Individual,NC,Delta Dental of North Carolina,56891NC0130001,PPO,High,36591,9321,0.0%,25.5%
+Individual,NC,Delta Dental of North Carolina,56891NC0110001,PPO,Low,42425,9005,0.0%,21.2%
+Individual,NC,"Dominion Dental Services, Inc.",66759NC0010002,PPO,High,613,166,0.0%,27.1%
+Individual,NC,"Dominion Dental Services, Inc.",66759NC0010001,PPO,Low,1183,314,0.0%,26.5%
+Individual,NC,"Dominion Dental Services, Inc.",66759NC0010003,PPO,Low,1213,278,0.0%,22.9%
+Individual,NC,"Dominion Dental Services, Inc.",66759NC0010004,PPO,Low,4360,990,0.0%,22.7%
+Individual,NC,Humana Insurance Company,32237NC0290002,PPO,High,8998,2408,0.0%,26.8%
+Individual,NC,Humana Insurance Company,32237NC0290001,PPO,Low,12038,2824,0.0%,23.5%
+Individual,NC,TRUASSURE INSURANCE COMPANY,82612NC0020001,PPO,High,1193,262,0.0%,22.0%
+Individual,NC,TRUASSURE INSURANCE COMPANY,82612NC0010001,PPO,Low,2208,449,0.0%,20.3%
+Individual,ND,Delta Dental of Minnesota,27882ND0020001,PPO,Low,1214,459,0.0%,37.8%
+Individual,ND,Delta Dental of Minnesota,27882ND0040001,PPO,Low,1246,339,0.0%,27.2%
+Individual,ND,Delta Dental of Minnesota,27882ND0060001,PPO,Low,1234,250,0.0%,20.3%
+Individual,ND,Delta Dental of Minnesota,27882ND0080001,PPO,Low,1576,379,0.0%,24.0%
+Individual,NE,BEST Life and Health Insurance Company,50022NE0020003,PPO,High,77,29,0.0%,37.7%
+Individual,NE,BEST Life and Health Insurance Company,50022NE0020006,PPO,Low,193,58,0.0%,30.1%
+Individual,NE,Delta Dental of Nebraska,45550NE0010001,PPO,Low,252,61,0.0%,24.2%
+Individual,NE,Delta Dental of Nebraska,45550NE0020001,PPO,Low,4522,1687,0.0%,37.3%
+Individual,NE,Delta Dental of Nebraska,45550NE0040001,PPO,Low,3560,688,0.0%,19.3%
+Individual,NE,Delta Dental of Nebraska,45550NE0060001,PPO,Low,3654,818,0.0%,22.4%
+Individual,NE,Delta Dental of Nebraska,45550NE0080001,PPO,Low,4243,1019,0.0%,24.0%
+Individual,NE,TRUASSURE INSURANCE COMPANY,48282NE0020001,PPO,High,149,34,0.0%,22.8%
+Individual,NE,TRUASSURE INSURANCE COMPANY,48282NE0010001,PPO,Low,441,130,0.0%,29.5%
+Individual,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0420004,PPO,High,1265,92,43.4%,7.3%
+Individual,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0420003,PPO,Low,1646,128,43.4%,7.8%
+Individual,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0420005,PPO,Low,1513,174,43.4%,11.5%
+Individual,NH,Anthem Health Plans of NH(Anthem BCBS),57601NH0420006,PPO,Low,914,148,43.4%,16.2%
+Individual,NH,"Delta Dental Plan of New Hampshire, Inc.",87701NH0070001,PPO,High,7478,1448,0.0%,19.4%
+Individual,NH,"Delta Dental Plan of New Hampshire, Inc.",87701NH0090001,PPO,High,263,27,0.0%,10.3%
+Individual,NH,"Delta Dental Plan of New Hampshire, Inc.",87701NH0080001,PPO,Low,9652,1604,0.0%,16.6%
+Individual,NH,"Delta Dental Plan of New Hampshire, Inc.",87701NH0100001,PPO,Low,542,53,0.0%,9.8%
+Individual,NH,Renaissance Life & Health Insurance Company of America,72953NH0040001,PPO,High,824,249,0.0%,30.2%
+Individual,NH,Renaissance Life & Health Insurance Company of America,72953NH0040002,PPO,Low,1726,660,0.0%,38.2%
+Individual,OH,Community Insurance Company(Anthem BCBS),29276OH0830004,PPO,High,3732,403,32.7%,10.8%
+Individual,OH,Community Insurance Company(Anthem BCBS),29276OH0830003,PPO,Low,3766,274,32.7%,7.3%
+Individual,OH,Community Insurance Company(Anthem BCBS),29276OH0830005,PPO,Low,2958,387,32.7%,13.1%
+Individual,OH,Community Insurance Company(Anthem BCBS),29276OH0830006,PPO,Low,2520,360,32.7%,14.3%
+Individual,OH,"Delta Dental Plan of Ohio, Inc.",86728OH0340001,PPO,High,12481,2974,0.0%,23.8%
+Individual,OH,"Delta Dental Plan of Ohio, Inc.",86728OH0360001,PPO,High,108,23,0.0%,21.3%
+Individual,OH,"Delta Dental Plan of Ohio, Inc.",86728OH0340002,PPO,Low,30349,5556,0.0%,18.3%
+Individual,OH,"Delta Dental Plan of Ohio, Inc.",86728OH0360002,PPO,Low,64,11,0.0%,17.2%
+Individual,OH,"DentaQuest National Insurance Company, Inc.",34964OH0030003,PPO,High,1100,425,0.0%,38.6%
+Individual,OH,"DentaQuest National Insurance Company, Inc.",34964OH0030004,PPO,Low,1947,734,0.0%,37.7%
+Individual,OH,"DentaQuest National Insurance Company, Inc.",34964OH0030010,PPO,Low,1000,250,0.0%,25.0%
+Individual,OH,"Educators Health Plans Life, Accident, and Health,",44346OH0010003,PPO,Low,1158,288,0.0%,24.9%
+Individual,OH,"Educators Health Plans Life, Accident, and Health,",44346OH0010004,PPO,Low,2162,716,0.0%,33.1%
+Individual,OH,Humana Insurance Company,97596OH0580003,PPO,Low,4046,715,0.0%,17.7%
+Individual,OH,"Solstice Healthplans of Ohio, Inc.",57086OH0010001,HMO,Low,513,27,0.0%,5.3%
+Individual,OH,TRUASSURE INSURANCE COMPANY,89819OH0020001,PPO,High,243,38,0.0%,15.6%
+Individual,OH,TRUASSURE INSURANCE COMPANY,89819OH0010001,PPO,Low,663,185,0.0%,27.9%
+Individual,OK,BEST Life and Health Insurance Company,40254OK0020006,PPO,Low,55,17,0.0%,30.9%
+Individual,OK,Blue Cross Blue Shield of Oklahoma,87571OK0390001,PPO,High,34319,6476,23.8%,18.9%
+Individual,OK,Blue Cross Blue Shield of Oklahoma,87571OK0390003,PPO,High,4302,696,23.8%,16.2%
+Individual,OK,Blue Cross Blue Shield of Oklahoma,87571OK0390002,PPO,Low,26322,4650,23.8%,17.7%
+Individual,OK,Blue Cross Blue Shield of Oklahoma,87571OK0390004,PPO,Low,1386,204,23.8%,14.7%
+Individual,OK,Blue Cross Blue Shield of Oklahoma,87571OK0390005,PPO,Low,8065,2028,23.8%,25.1%
+Individual,OK,Dentegra Insurance Company,45689OK0010008,PPO,High,365,142,0.0%,38.9%
+Individual,OK,Dentegra Insurance Company,45689OK0010007,PPO,Low,725,320,0.0%,44.1%
+Individual,OK,Humana Insurance Company,23468OK0200002,PPO,High,1902,478,0.0%,25.1%
+Individual,OK,Humana Insurance Company,23468OK0200001,PPO,Low,3316,818,0.0%,24.7%
+Individual,OK,Renaissance Life & Health Insurance Company of America,13711OK0040003,PPO,Low,2685,880,0.0%,32.8%
+Individual,OK,Renaissance Life & Health Insurance Company of America,13711OK0100001,PPO,Low,1787,517,0.0%,28.9%
+Individual,OK,TRUASSURE INSURANCE COMPANY,12513OK0020001,PPO,High,154,35,0.0%,22.7%
+Individual,OK,TRUASSURE INSURANCE COMPANY,12513OK0010001,PPO,Low,1369,287,0.0%,21.0%
+Individual,OR,"Dental Health Services, Inc.",25486OR0020003,EPO,High,647,241,0.0%,37.2%
+Individual,OR,"Dental Health Services, Inc.",25486OR0020001,EPO,Low,1858,712,0.0%,38.3%
+Individual,OR,"Dental Health Services, Inc.",25486OR0020002,EPO,Low,562,231,0.0%,41.1%
+Individual,OR,Dentegra Insurance Company,68420OR0010008,PPO,High,736,381,0.0%,51.8%
+Individual,OR,Dentegra Insurance Company,68420OR0010007,PPO,Low,2236,956,0.0%,42.8%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070002,PPO,High,2892,901,0.0%,31.2%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070004,PPO,High,308,66,0.0%,21.4%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070001,PPO,Low,2094,563,0.0%,26.9%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070003,PPO,Low,176,33,0.0%,18.8%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070005,PPO,Low,2981,691,0.0%,23.2%
+Individual,OR,"Dominion Dental Services, Inc.",98884OR0070006,PPO,Low,3255,837,0.0%,25.7%
+Individual,OR,"Oregon Dental Service, DBA Delta Dental Plan of Oregon",28415OR0010001,PPO,Low,19830,3510,0.0%,17.7%
+Individual,OR,"Oregon Dental Service, DBA Delta Dental Plan of Oregon",28415OR0260001,PPO,Low,90,12,0.0%,13.3%
+Individual,OR,PacificSource Health Plans,10091OR0720001,PPO,High,1746,152,23.3%,8.7%
+Individual,OR,PacificSource Health Plans,10091OR0720004,PPO,High,1501,165,23.3%,11.0%
+Individual,SC,BEST Life and Health Insurance Company,89281SC0020003,PPO,High,121,44,0.0%,36.4%
+Individual,SC,BEST Life and Health Insurance Company,89281SC0020006,PPO,Low,280,86,0.0%,30.7%
+Individual,SC,Blue Cross and Blue Shield of South Carolina,26065SC0680001,PPO,High,3547,811,40.7%,22.9%
+Individual,SC,Blue Cross and Blue Shield of South Carolina,26065SC0680002,PPO,Low,5262,1179,40.7%,22.4%
+Individual,SC,Renaissance Life & Health Insurance Company of America,97325SC0060003,PPO,High,5847,1719,0.0%,29.4%
+Individual,SC,Renaissance Life & Health Insurance Company of America,97325SC0060004,PPO,Low,5447,1721,0.0%,31.6%
+Individual,SC,Renaissance Life & Health Insurance Company of America,97325SC0090001,PPO,Low,3198,895,0.0%,28.0%
+Individual,SC,TRUASSURE INSURANCE COMPANY,32126SC0020001,PPO,High,242,77,0.0%,31.8%
+Individual,SC,TRUASSURE INSURANCE COMPANY,32126SC0010001,PPO,Low,444,76,0.0%,17.1%
+Individual,TN,BEST Life and Health Insurance Company,24601TN0020003,PPO,High,32,12,0.0%,37.5%
+Individual,TN,BEST Life and Health Insurance Company,24601TN0020006,PPO,Low,27,11,0.0%,40.7%
+Individual,TN,Cigna Health and Life Insurance Company,99248TN0030001,PPO,Low,119,33,42.4%,27.7%
+Individual,TN,Cigna Health and Life Insurance Company,99248TN0030002,PPO,Low,25834,6710,42.4%,26.0%
+Individual,TN,"DentaQuest USA Insurance Company, Inc.",43878TN0010003,EPO,High,515,183,0.0%,35.5%
+Individual,TN,"DentaQuest USA Insurance Company, Inc.",43878TN0010004,EPO,Low,1327,453,0.0%,34.1%
+Individual,TN,"Educators Health Plans Life, Accident, and Health, Inc",97536TN0010001,PPO,High,375,151,0.0%,40.3%
+Individual,TN,"Educators Health Plans Life, Accident, and Health, Inc",97536TN0010002,PPO,Low,683,262,0.0%,38.4%
+Individual,TN,"Educators Health Plans Life, Accident, and Health, Inc",97536TN0010003,PPO,Low,2441,1017,0.0%,41.7%
+Individual,TN,"Educators Health Plans Life, Accident, and Health, Inc",97536TN0010004,PPO,Low,3257,1446,0.0%,44.4%
+Individual,TN,Humana Insurance Company,82120TN0630005,PPO,High,20032,4992,0.0%,24.9%
+Individual,TN,Humana Insurance Company,82120TN0630004,PPO,Low,6125,1258,0.0%,20.5%
+Individual,TN,Humana Insurance Company,82120TN0630006,PPO,Low,8503,2894,0.0%,34.0%
+Individual,TN,TRUASSURE INSURANCE COMPANY,28398TN0020001,PPO,High,486,166,0.0%,34.2%
+Individual,TN,TRUASSURE INSURANCE COMPANY,28398TN0010001,PPO,Low,508,126,0.0%,24.8%
+Individual,TX,"Alpha Dental Programs, Inc.",23891TX0010004,HMO,High,60133,26222,44.3%,43.6%
+Individual,TX,"Alpha Dental Programs, Inc.",23891TX0010006,HMO,Low,53149,22048,44.3%,41.5%
+Individual,TX,BEST Life and Health Insurance Company,47665TX0020003,PPO,High,49,20,0.0%,40.8%
+Individual,TX,BEST Life and Health Insurance Company,47665TX0020006,PPO,Low,40,27,0.0%,67.5%
+Individual,TX,Blue Cross Blue Shield of Texas,33602TX0500001,PPO,High,95335,18354,56.6%,19.3%
+Individual,TX,Blue Cross Blue Shield of Texas,33602TX0500003,PPO,High,6436,765,56.6%,11.9%
+Individual,TX,Blue Cross Blue Shield of Texas,33602TX0500002,PPO,Low,67386,12309,56.6%,18.3%
+Individual,TX,Blue Cross Blue Shield of Texas,33602TX0500004,PPO,Low,4783,552,56.6%,11.5%
+Individual,TX,Blue Cross Blue Shield of Texas,33602TX0500006,PPO,Low,32037,8018,56.6%,25.0%
+Individual,TX,Delta Dental Insurance Company,24349TX0010004,PPO,High,36431,10615,12.9%,29.1%
+Individual,TX,Delta Dental Insurance Company,24349TX0010007,PPO,High,84287,26838,12.9%,31.8%
+Individual,TX,Delta Dental Insurance Company,24349TX0010006,PPO,Low,47856,16223,12.9%,33.9%
+Individual,TX,"DentaQuest USA Insurance Company, Inc.",58609TX0010001,PPO,High,93,75,0.0%,80.6%
+Individual,TX,"DentaQuest USA Insurance Company, Inc.",58609TX0010003,PPO,High,2998,1766,0.0%,58.9%
+Individual,TX,"DentaQuest USA Insurance Company, Inc.",58609TX0010004,PPO,Low,2243,1381,0.0%,61.6%
+Individual,TX,"Educators Health Plans Life, Accident, and Health,",91476TX0010003,PPO,Low,3064,891,0.0%,29.1%
+Individual,TX,"Educators Health Plans Life, Accident, and Health,",91476TX0010004,PPO,Low,2467,665,0.0%,27.0%
+Individual,TX,"Educators Health Plans Life, Accident, and Health,",91476TX0020002,PPO,Low,5316,1711,0.0%,32.2%
+Individual,TX,Humana Insurance Company,63141TX0760002,PPO,High,22990,4928,0.0%,21.4%
+Individual,TX,Humana Insurance Company,63141TX0760001,PPO,Low,16419,3427,0.0%,20.9%
+Individual,TX,Humana Insurance Company,63141TX0760003,PPO,Low,13083,4180,0.0%,31.9%
+Individual,TX,Renaissance Life & Health Insurance Company of America,40540TX0060003,PPO,High,2422,713,0.0%,29.4%
+Individual,TX,Renaissance Life & Health Insurance Company of America,40540TX0100001,PPO,Low,6656,1747,0.0%,26.2%
+Individual,TX,"Solstice Healthplans of Texas, Inc.",33626TX0010001,EPO,High,3140,1698,0.0%,54.1%
+Individual,TX,TRUASSURE INSURANCE COMPANY,61315TX0020001,PPO,High,599,249,0.0%,41.6%
+Individual,TX,TRUASSURE INSURANCE COMPANY,61315TX0010001,PPO,Low,105,24,0.0%,22.9%
+Individual,UT,"Alpha Dental of Utah, Inc.",14948UT0040004,HMO,High,2654,1195,0.0%,45.0%
+Individual,UT,"Alpha Dental of Utah, Inc.",14948UT0040003,HMO,Low,2956,1300,0.0%,44.0%
+Individual,UT,BEST Life and Health Insurance Company,42757UT0020003,PPO,High,38,33,0.0%,86.8%
+Individual,UT,Delta Dental Insurance Company,71246UT0040002,PPO,High,4056,1224,0.0%,30.2%
+Individual,UT,Delta Dental Insurance Company,71246UT0030002,PPO,Low,8563,2465,0.0%,28.8%
+Individual,UT,"Dental Care Plus, Inc.",61558UT0010003,PPO,High,1204,473,0.0%,39.3%
+Individual,UT,"Dental Care Plus, Inc.",61558UT0010004,PPO,Low,705,286,0.0%,40.6%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0010001,PPO,High,26518,5002,0.0%,18.9%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0020001,PPO,High,41104,8639,0.0%,21.0%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0020002,PPO,High,12182,2199,0.0%,18.1%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0020003,PPO,High,39214,8434,0.0%,21.5%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0110001,EPO,Low,851,187,0.0%,22.0%
+Individual,UT,"Educators Health Plans Life, Accident, and Health, Inc",40335UT0110002,EPO,Low,445,111,0.0%,24.9%
+Individual,UT,Humana Insurance Company,46958UT0470002,PPO,Low,11457,3329,0.0%,29.1%
+Individual,UT,Renaissance Life & Health Insurance Company of America,87169UT0040003,PPO,High,3408,1022,0.0%,30.0%
+Individual,UT,Renaissance Life & Health Insurance Company of America,87169UT0050003,PPO,High,242,28,0.0%,11.6%
+Individual,UT,Renaissance Life & Health Insurance Company of America,87169UT0040004,PPO,Low,3814,1074,0.0%,28.2%
+Individual,WI,BCBS of Wisconsin(Anthem BCBS),90028WI0420004,PPO,High,2972,278,0.0%,9.4%
+Individual,WI,BCBS of Wisconsin(Anthem BCBS),90028WI0420003,PPO,Low,3685,314,0.0%,8.5%
+Individual,WI,BCBS of Wisconsin(Anthem BCBS),90028WI0420005,PPO,Low,2100,200,0.0%,9.5%
+Individual,WI,BCBS of Wisconsin(Anthem BCBS),90028WI0420006,PPO,Low,1736,374,0.0%,21.5%
+Individual,WI,Chorus Community Health Plans,14630WI0020001,PPO,High,213,74,48.1%,34.7%
+Individual,WI,Chorus Community Health Plans,14630WI0020002,PPO,High,102,21,48.1%,20.6%
+Individual,WI,Chorus Community Health Plans,14630WI0020003,PPO,Low,146,57,48.1%,39.0%
+Individual,WI,"Delta Dental of Wisconsin, Inc.",79597WI0030001,PPO,High,9259,2164,0.0%,23.4%
+Individual,WI,"Delta Dental of Wisconsin, Inc.",79597WI0030002,PPO,Low,14961,2964,0.0%,19.8%
+Individual,WI,"Delta Dental of Wisconsin, Inc.",79597WI0030003,PPO,Low,44112,8183,0.0%,18.6%
+Individual,WI,"Dental Care Plus, Inc.",49941WI0040003,PPO,High,1173,499,0.0%,42.5%
+Individual,WI,"Dental Care Plus, Inc.",49941WI0040004,PPO,Low,1495,608,0.0%,40.7%
+Individual,WI,Humana Insurance Company,91604WI0490002,PPO,Low,2754,559,0.0%,20.3%
+Individual,WI,Renaissance Life & Health Insurance Company of America,34210WI0040003,PPO,Low,1573,634,0.0%,40.3%
+Individual,WI,Renaissance Life & Health Insurance Company of America,34210WI0070001,PPO,Low,600,126,0.0%,21.0%
+Individual,WV,Delta Dental of West Virginia,76526WV0010004,PPO,High,4625,1193,0.0%,25.8%
+Individual,WV,Delta Dental of West Virginia,76526WV0010006,PPO,Low,4471,1100,0.0%,24.6%
+Individual,WY,"Educators Health Plans Life, Accident, and Health, Inc",34588WY0010001,PPO,High,92,32,0.0%,34.8%
+Individual,WY,"Educators Health Plans Life, Accident, and Health, Inc",34588WY0010002,PPO,Low,102,27,0.0%,26.5%
+Individual,WY,"Educators Health Plans Life, Accident, and Health, Inc",34588WY0010003,PPO,Low,267,59,0.0%,22.1%
+Individual,WY,"Educators Health Plans Life, Accident, and Health, Inc",34588WY0010004,PPO,Low,441,119,0.0%,27.0%
+Individual,WY,Renaissance Life & Health Insurance Company of America,80132WY0040003,PPO,High,1521,374,0.0%,24.6%
+Individual,WY,Renaissance Life & Health Insurance Company of America,80132WY0040004,PPO,Low,3190,819,0.0%,25.7%
